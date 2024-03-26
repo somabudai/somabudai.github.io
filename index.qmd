@@ -1,5 +1,18 @@
 ---
-title: "Soma Budai website"
+title: 'Soma Budai'
+image: pic.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: Researchegate
+      href: https://www.researchgate.net/profile/Soma-Budai
+    - text: Email
+      href: mailto:soma.budai@unipv.it
 ---
 
 Hello!
+
+![](pic.jpeg)

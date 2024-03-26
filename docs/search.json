@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Soma Budai website",
+    "title": "Soma Budai",
     "section": "",
     "text": "Hello!"
   },
@@ -11,6 +11,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "My information"
+  },
+  {
+    "objectID": "r_codes.html",
+    "href": "r_codes.html",
+    "title": "My R codes",
+    "section": "",
+    "text": "How to create stylized stacked barcharts: click"
+  },
+  {
+    "objectID": "barchart.html",
+    "href": "barchart.html",
+    "title": "Barchart",
+    "section": "",
+    "text": "Barchart will be here"
+  },
+  {
+    "objectID": "r_codes.html#barchart",
+    "href": "r_codes.html#barchart",
+    "title": "My R codes",
+    "section": "",
+    "text": "How to create stylized stacked barcharts: click"
   }
 ]

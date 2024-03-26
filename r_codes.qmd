@@ -1,0 +1,8 @@
+---
+title: "My R codes"
+---
+
+## Barchart
+How to create stylized stacked barcharts: [click](barchart.qmd)
+
+------------------------------------------------------------------------

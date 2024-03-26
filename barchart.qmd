@@ -1,0 +1,5 @@
+---
+title: 'Barchart'
+---
+
+Barchart will be here

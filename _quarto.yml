@@ -8,13 +8,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: r_codes.qmd
+        text: R codes
+    tools:
+      - icon: twitter
+        href: https://www.researchgate.net/profile/Soma-Budai
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
+
 
