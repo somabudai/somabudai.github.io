@@ -1,0 +1,243 @@
+element_ID,general_type,system_name,system_ID,period,climate,sys_gs_category,NG
+2,terminal deposit,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.51
+3,terminal deposit,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.18
+42,channel,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.17
+52,channel,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.48
+53,levee,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0
+54,levee,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.02
+67,terminal deposit,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.75
+68,terminal deposit,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.2
+76,terminal deposit,Golo Turbidite System,1,Quaternary,icehouse,sandy system,0.31
+280,channel,Isaac Formation,5,-,uncertain,gravelly-sand system,0.74
+298,channel,Tres Pasos Deep-Water Slope System,6,Cretaceous,greenhouse,sandy system,1
+299,terminal deposit,Tres Pasos Deep-Water Slope System,6,Cretaceous,greenhouse,sandy system,0.85
+300,terminal deposit,Tres Pasos Deep-Water Slope System,6,Cretaceous,greenhouse,sandy system,0.35
+301,terminal deposit,Tres Pasos Deep-Water Slope System,6,Cretaceous,greenhouse,sandy system,0.58
+302,channel,Tres Pasos Deep-Water Slope System,6,Cretaceous,greenhouse,sandy system,0.73
+429,channel,Brushy Canyon,4,Permian,icehouse,sandy system,0.75
+430,channel,Brushy Canyon,4,Permian,icehouse,sandy system,0.95
+432,channel,Brushy Canyon,4,Permian,icehouse,sandy system,0.95
+433,channel,Brushy Canyon,4,Permian,icehouse,sandy system,0.85
+449,channel,Brushy Canyon,4,Permian,icehouse,sandy system,1
+450,channel,Brushy Canyon,4,Permian,icehouse,sandy system,1
+451,channel,Brushy Canyon,4,Permian,icehouse,sandy system,1
+454,channel,Brushy Canyon,4,Permian,icehouse,sandy system,1
+460,channel,Brushy Canyon,4,Permian,icehouse,sandy system,0.97
+573,levee,Amazon Turbidite System,9,Quaternary,icehouse,sandy system,0.33
+655,channel,Amazon Turbidite System,9,Quaternary,icehouse,sandy system,0.05
+681,levee,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.04
+682,levee,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.19
+683,levee,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.21
+684,levee,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.33
+685,levee,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.15
+686,levee,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.24
+1075,levee,Zaire Fan,12,Quaternary,icehouse,gravelly-sand system,0
+1228,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,0.94
+1229,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,1
+1230,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,0.74
+1231,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,1
+1233,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,0.96
+1234,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,1
+1235,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,0.78
+1236,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,1
+1239,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,0.9
+1240,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,1
+1241,terminal deposit,Bengal Fan,14,Quaternary,icehouse,sandy system,0.76
+1271,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,1
+1273,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.49
+1274,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.57
+1277,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.42
+1280,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.66
+1281,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.84
+1282,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,1
+1285,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.13
+1290,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0
+1291,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,1
+1294,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,1
+1296,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,1
+1297,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,1
+1298,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,0.49
+1299,channel,Cerro Toro Deep-Water System,10,Cretaceous,greenhouse,gravelly-sand system,1
+1307,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1313,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,0
+1321,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,0.49
+1322,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,0.76
+1323,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1324,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1325,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1326,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1328,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,0.75
+1329,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,0.5
+1330,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,0.92
+1331,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1332,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1338,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,1
+1339,channel,Black's Beach,15,Paleogene,greenhouse,gravelly-sand system,0.5
+1357,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,0.86
+1644,channel,Monte Ascensione System,19,Quaternary,icehouse,gravelly system,1
+1646,channel,Monte Ascensione System,19,Quaternary,icehouse,gravelly system,1
+1951,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.79
+1952,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.81
+1967,channel,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.64
+1968,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.93
+1969,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.84
+1970,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.81
+1971,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.8
+1972,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,1
+1973,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.73
+1974,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.91
+1977,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.69
+1978,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,1
+1979,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.85
+1982,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,1
+1983,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.73
+1984,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.9
+1985,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.76
+1986,terminal deposit,Niger Agbada Formation,24,Neogene,icehouse,sandy system,0.45
+1994,terminal deposit,Zaire Fan,12,Quaternary,icehouse,gravelly-sand system,0.46
+1995,terminal deposit,Zaire Fan,12,Quaternary,icehouse,gravelly-sand system,0.16
+2009,terminal deposit,Zaire Fan,12,Quaternary,icehouse,gravelly-sand system,0.03
+2032,terminal deposit,Mississippi Fan,110,Quaternary,icehouse,sandy system,0.02
+2033,terminal deposit,Mississippi Fan,110,Quaternary,icehouse,sandy system,0.12
+2034,terminal deposit,Mississippi Fan,110,Quaternary,icehouse,sandy system,0.23
+2192,terminal deposit,Nile deep-sea turbidite system,27,Quaternary,icehouse,sandy system,0.31
+2285,levee,Gulf of Cadiz Contouritic Depositional System,28,Quaternary,icehouse,sandy system,0.74
+2415,channel,Ogooué deep sea turbidite system,31,Quaternary,icehouse,sandy system,0.69
+2417,terminal deposit,Ogooué deep sea turbidite system,31,Quaternary,icehouse,sandy system,0.97
+3228,terminal deposit,Torre degli Amorotti turbidite system,224,Neogene,icehouse,gravelly-sand system,1
+3231,terminal deposit,Torre degli Amorotti turbidite system,224,Neogene,icehouse,gravelly-sand system,0.96
+3233,terminal deposit,Torre degli Amorotti turbidite system,224,Neogene,icehouse,gravelly-sand system,0.97
+3281,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.88
+3282,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.7
+3283,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.82
+3284,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3285,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3286,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3288,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3290,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3292,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.76
+3293,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3295,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3297,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.91
+3298,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3299,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3301,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.67
+3302,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3304,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.46
+3305,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.54
+3306,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3308,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3310,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3312,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.66
+3314,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3316,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.98
+3318,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.93
+3319,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3321,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.7
+3322,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3323,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3324,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.94
+3325,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.53
+3326,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.9
+3327,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3329,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.13
+3330,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3332,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,0.7
+3334,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3336,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3338,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3340,terminal deposit,Cloridorme turbidite system,227,Ordovician,icehouse,sandy system,1
+3450,terminal deposit,Isaac Formation,5,-,uncertain,gravelly-sand system,0.8
+3469,terminal deposit,Isaac Formation,5,-,uncertain,gravelly-sand system,0.98
+3504,terminal deposit,Aberystwyth Grits,1052,Ordovician,greenhouse,sandy system,0.72
+3505,channel,Aberystwyth Grits,1052,Ordovician,greenhouse,sandy system,0.94
+3551,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3552,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3553,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3554,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3556,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,0.87
+3557,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3560,levee,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3561,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3562,levee,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3563,terminal deposit,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3564,terminal deposit,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,0.93
+3565,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3566,terminal deposit,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3567,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+3571,channel,Antler foredeep turbidite system,232,Carboniferous,icehouse,gravelly-sand system,1
+4608,terminal deposit,Ropianka turbidite system (West),237,Cretaceous,greenhouse,sandy system,0.75
+4609,terminal deposit,Ropianka turbidite system (West),237,Cretaceous,greenhouse,sandy system,0.99
+4612,terminal deposit,Ropianka turbidite system (West),237,Cretaceous,greenhouse,sandy system,0.09
+4613,terminal deposit,Ropianka turbidite system (West),237,Cretaceous,greenhouse,sandy system,0.85
+4615,terminal deposit,Ropianka turbidite system (East),238,Cretaceous,greenhouse,sandy system,0.9
+4618,terminal deposit,Ropianka turbidite system (East),238,Cretaceous,greenhouse,sandy system,0.85
+4619,terminal deposit,Ropianka turbidite system (East),238,Cretaceous,greenhouse,sandy system,0.9
+4620,terminal deposit,Ropianka turbidite system (East),238,Cretaceous,greenhouse,sandy system,0.87
+10024,channel,Brushy Canyon,4,Permian,icehouse,sandy system,1
+10036,levee,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,0.23
+10122,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+10123,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+10124,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+10125,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+10126,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+10159,channel,Himalia Ridge Formation Turbidite System,101,Cretaceous,greenhouse,gravelly system,0.87
+10241,channel,Isaac Formation,5,-,uncertain,gravelly-sand system,0.92
+10318,channel,Grès d'Annot Formation,210,Paleogene,icehouse,sandy system,0.98
+10319,channel,Grès d'Annot Formation,210,Paleogene,icehouse,sandy system,1
+11612,levee,Brito Formation Turbidite System,108,Paleogene,greenhouse,gravelly-sand system,0.55
+12210,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,1
+12211,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,1
+12213,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,0.23
+12214,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,0.41
+12215,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,0.26
+12217,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,1
+12218,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,1
+12219,channel,Capistrano Formation,16,Neogene,icehouse,gravelly-sand system,1
+12291,terminal deposit,Ross Sandstone Turbidite System,2,Carboniferous,icehouse,sandy system,1
+12292,terminal deposit,Ross Sandstone Turbidite System,2,Carboniferous,icehouse,sandy system,0.99
+12303,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.67
+12305,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.84
+12306,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.91
+12307,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.72
+12472,levee,Laingsburg Karoo Turbidite System,112,Permian,greenhouse,sandy system,1
+12478,terminal deposit,Laingsburg Karoo Turbidite System,112,Permian,greenhouse,sandy system,0.36
+12486,channel,Laingsburg Karoo Turbidite System,112,Permian,greenhouse,sandy system,0.73
+12522,levee,Laingsburg Karoo Turbidite System,112,Permian,greenhouse,sandy system,0.02
+12524,levee,Laingsburg Karoo Turbidite System,112,Permian,greenhouse,sandy system,0.99
+20005,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+20009,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+20013,channel,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,1
+20072,levee,San Fernando Turbidite System,100,Cretaceous,greenhouse,gravelly-sand system,0.43
+20087,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.59
+20088,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.97
+20089,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20090,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.92
+20091,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.69
+20092,channel,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20093,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.94
+20094,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.85
+20096,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.89
+20097,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20103,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20104,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,0.96
+20107,channel,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20108,channel,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20110,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20111,terminal deposit,Tanqua Karoo,107,Permian,icehouse,sandy system,1
+20112,levee,Tanqua Karoo,107,Permian,icehouse,sandy system,0.78
+20139,levee,Laingsburg Karoo Turbidite System,112,Permian,greenhouse,sandy system,0.28
+22815,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.99
+22816,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.99
+22817,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.83
+22818,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.99
+22819,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.99
+22821,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.99
+22822,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,1
+22823,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.98
+22824,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,1
+22827,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,1
+22828,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.99
+22839,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.96
+22840,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,1
+22841,channel,Thelma Field turbidite system,235,Jurassic,greenhouse,gravelly-sand system,0.96

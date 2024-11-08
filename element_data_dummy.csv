@@ -1,0 +1,321 @@
+element_ID,element_interpret,element_general_type,element_thickness_type
+2,lobe complex,terminal deposit,true (maximum)
+3,lobe complex,terminal deposit,true (maximum)
+42,gully,channel,true (maximum)
+50,levee,levee,NA
+52,channel,channel,true (maximum)
+54,levee,levee,true (maximum)
+67,lobe element,terminal deposit,true (maximum)
+68,lobe element,terminal deposit,true (maximum)
+76,composite lobe,terminal deposit,true (maximum)
+273,inner bend levee mudstone unit,levee,NA
+279,amalgamated channel fill,channel,NA
+280,non-amalgamated channel fill,channel,true (maximum)
+282,lenticular channel fill with structureless sandstones,channel,NA
+283,amalgamated channel fill,channel,NA
+284,amalgamated channel fill,channel,NA
+286,amalgamated channel fill,channel,NA
+287,amalgamated channel fill,channel,NA
+424,channel complex,channel,partial observed
+428,channel story set,channel,NA
+429,channel story set,channel,true (maximum)
+430,channel story set,channel,true (maximum)
+432,channel story set,channel,true (maximum)
+433,channel story set,channel,true (maximum)
+449,channel story,channel,true (maximum)
+450,channel story,channel,true (maximum)
+451,channel story,channel,true (maximum)
+454,channel story,channel,true (maximum)
+460,channel story,channel,true (maximum)
+682,part of outer levee,levee,true (maximum)
+684,part of outer levee,levee,true (maximum)
+746,Distributary channel,channel,NA
+1228,lobe-element,terminal deposit,true (maximum)
+1229,lobe-element,terminal deposit,true (maximum)
+1230,lobe-element,terminal deposit,true (maximum)
+1231,lobe-element,terminal deposit,true (maximum)
+1232,lobe-element,terminal deposit,partial observed
+1233,lobe-element,terminal deposit,true (maximum)
+1234,lobe-element,terminal deposit,true (maximum)
+1235,lobe-element,terminal deposit,true (maximum)
+1236,lobe-element,terminal deposit,true (maximum)
+1238,lobe-element,terminal deposit,partial observed
+1239,lobe-element,terminal deposit,true (maximum)
+1240,lobe-element,terminal deposit,true (maximum)
+1241,lobe-element,terminal deposit,true (maximum)
+1242,lobe-element,terminal deposit,partial observed
+1271,storey  ,channel,true (not maximum)
+1273,storey  ,channel,true (not maximum)
+1274,storey  ,channel,true (not maximum)
+1277,storey  ,channel,true (maximum)
+1280,storey  ,channel,true (maximum)
+1281,storey  ,channel,true (maximum)
+1282,storey  ,channel,true (maximum)
+1285,storey  ,channel,true (maximum)
+1291,storey  ,channel,true (maximum)
+1294,storey  ,channel,true (maximum)
+1296,storey  ,channel,true (maximum)
+1297,storey  ,channel,true (maximum)
+1298,undifferentiated fill,channel,true (maximum)
+1299,storey,channel,true (not maximum)
+1303,channel complex,channel,partial observed
+1307,channel complex ,channel,true (maximum)
+1310,channel complex ,channel,partial observed
+1311,channel complex ,channel,partial observed
+1324,channel,channel,true (maximum)
+1325,channel,channel,true (maximum)
+1326,channel ,channel,true (not maximum)
+1328,channel ,channel,true (not maximum)
+1329,channel ,channel,true (not maximum)
+1334,channel complex,channel,partial observed
+1339,channel,channel,true (maximum)
+1341,channel complex,channel,partial eroded
+1358,channel,channel,partial eroded
+1359,channel,channel,partial eroded
+1360,channel,channel,unlimited eroded
+1390,channel,channel,NA
+1391,channel,channel,NA
+1392,channel,channel,NA
+1393,channel,channel,NA
+1397,lobe,terminal deposit,NA
+1398,lobe,terminal deposit,NA
+1399,lobe,terminal deposit,NA
+1400,lobe,terminal deposit,NA
+3228,NA,terminal deposit,apparent
+3231,turbidite lobe,terminal deposit,apparent
+3233,turbidite lobe,terminal deposit,apparent
+3281,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3282,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3283,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3284,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3285,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3286,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3288,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3290,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3292,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3293,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3295,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3297,sandy terminal splay,terminal deposit,apparent
+3298,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3299,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3301,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3302,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3304,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3305,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3306,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3308,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3310,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3312,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3314,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3316,sandy terminal splay,terminal deposit,apparent
+3318,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3319,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3321,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3322,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3323,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3324,sandy terminal splay,terminal deposit,apparent
+3325,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3326,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3327,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3329,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3330,sandy terminal splay,terminal deposit,apparent
+3332,sandy terminal splay,terminal deposit,apparent
+3334,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3336,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3338,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3340,"bipartite facies and associated strata/""""mouth-bar deposits""""",terminal deposit,apparent
+3450,bipartite facies and associated strata/splay,terminal deposit,apparent
+3469,bipartite facies and associated strata/splay,terminal deposit,apparent
+3472,Contourite-dominated facies,terminal deposit,NA
+3474,Contourite-dominated facies,terminal deposit,NA
+3476,Contourite-dominated facies,terminal deposit,NA
+3477,Turbidite-dominated facies,terminal deposit,NA
+3481,Turbidite-dominated facies,terminal deposit,NA
+3487,Turbidite-dominated facies,terminal deposit,NA
+3492,Turbidite-dominated facies,terminal deposit,NA
+3493,Contourite-dominated facies,terminal deposit,NA
+3496,Turbidite-dominated facies,terminal deposit,NA
+3497,Contourite-dominated facies,terminal deposit,NA
+3499,Contourite-dominated facies,terminal deposit,NA
+3501,NA,terminal deposit,unlimited observed
+3502,Channel-lobe transition zone,terminal deposit,unlimited observed
+3503,Levee,levee,partial observed
+3504,Channel-lobe transition zone,terminal deposit,apparent
+3505,Channel fill,channel,apparent
+3506,Lobe,terminal deposit,partial observed
+3507,Channel-lobe transition zone,terminal deposit,unlimited observed
+3550,inner fan,terminal deposit,unlimited observed
+3551,channel fill,channel,apparent
+3552,channel fill,channel,apparent
+3553,channel fill,channel,apparent
+3554,channel-fill complex,channel,apparent
+3557,channel fill and abandonement,channel,apparent
+3558,fan lobe,terminal deposit,unlimited observed
+3561,channel-fill complex,channel,apparent
+3565,channel-fill,channel,apparent
+3567,channel-fill,channel,apparent
+3571,channel-fill complex,channel,apparent
+3573,mid-inner fan,terminal deposit,unlimited observed
+4598,depositional lobe,terminal deposit,unlimited observed
+4599,depositional lobe,terminal deposit,unlimited observed
+4600,depositional lobe,terminal deposit,unlimited observed
+4601,depositional lobe,terminal deposit,unlimited observed
+4606,Channel-fill deposits and channel-lobe transition zone,channel,unlimited observed
+4607,Lobe-axis deposits,terminal deposit,partial observed
+4608,Lobe-fringe deposits,terminal deposit,apparent
+4609,Lobe-axis deposits,terminal deposit,apparent
+4610,Lobe-off-axis deposits,terminal deposit,partial observed
+4611,Lobe-fringe deposits,terminal deposit,partial observed
+4612,Interlobe deposits/lobe-distal-fringe deposits,terminal deposit,apparent
+4613,Lobe-off-axis deposits,terminal deposit,apparent
+4614,Lobe-fringe deposits,terminal deposit,partial observed
+4615,depositional lobe,terminal deposit,apparent
+4616,depositional lobe,terminal deposit,partial observed
+4617,depositional lobe,terminal deposit,partial observed
+4618,depositional lobe,terminal deposit,apparent
+4619,depositional lobe,terminal deposit,apparent
+4620,depositional lobe,terminal deposit,apparent
+4621,NA,levee,unlimited observed
+4623,NA,channel,unlimited observed
+4625,NA,terminal deposit,unlimited observed
+10036,external levee,levee,true (maximum)
+10122,channel,channel,true (maximum)
+10123,channel,channel,true (maximum)
+10124,channel,channel,true (maximum)
+10125,channel,channel,true (maximum)
+10126,channel,channel,true (maximum)
+10137,channel,channel,partial eroded
+10241,channel story set,channel,true (maximum)
+10247,channel story,channel,artificial
+10248,channel story,channel,partial eroded
+10249,channel story,channel,partial eroded
+10251,channel story,channel,partial eroded
+10253,channel story,channel,partial eroded
+10257,channel story,channel,partial eroded
+10265,channel story,channel,partial eroded
+10266,channel story,channel,partial eroded
+10267,channel story,channel,partial eroded
+10268,channel story,channel,partial eroded
+10273,levee deposits,levee,artificial
+10274,levee deposits,levee,artificial
+10278,levee deposits,levee,artificial
+10280,levee deposits,levee,artificial
+10302,levee deposits,levee,artificial
+10307,levee deposits,levee,artificial
+10318,channel,channel,true (maximum)
+10319,channel,channel,true (maximum)
+11612,levee deposits,levee,true (maximum)
+12203,channel,channel,partial observed
+12205,channel,channel,partial observed
+12208,channel,channel,partial observed
+12209,channel,channel,partial eroded
+12210,channel story,channel,true (maximum)
+12211,channel story,channel,true (maximum)
+12212,channel story,channel,partial observed
+12217,channel story,channel,true (maximum)
+12218,channel story,channel,true (maximum)
+12219,channel story,channel,true (maximum)
+12220,channel story,channel,partial observed
+12291,lobe,terminal deposit,true (maximum)
+12292,lobe,terminal deposit,true (not maximum)
+12293,lobe,terminal deposit,partial eroded
+12295,channel,channel,partial eroded
+12296,channel,channel,partial observed
+12303,lobe,terminal deposit,true (maximum)
+12305,lobe,terminal deposit,true (not maximum)
+12306,lobe,terminal deposit,true (maximum)
+12307,lobe,terminal deposit,true (maximum)
+12470,"intraslope distributary lobe complex (Flint et al., 2011)",terminal deposit,partial observed
+12478,lobe fringe,terminal deposit,true (maximum)
+12481,channel complex,channel,partial eroded
+12482,channel complex,channel,partial eroded
+12483,channel complex,channel,partial eroded
+12484,channel complex,channel,partial eroded
+12485,channel complex,channel,partial eroded
+12486,channel complex,channel,true (maximum)
+12487,channel,channel,partial eroded
+12488,channel,channel,partial eroded
+12489,channel,channel,partial eroded
+12490,channel,channel,partial eroded
+12491,channel,channel,partial eroded
+12492,channel,channel,partial eroded
+12493,channel,channel,partial eroded
+12494,channel,channel,partial eroded
+12495,channel,channel,partial eroded
+12496,channel,channel,partial eroded
+12497,channel,channel,partial eroded
+12498,channel,channel,partial eroded
+12499,channel,channel,partial eroded
+12502,channel,channel,partial eroded
+12503,channel,channel,partial eroded
+12504,channel,channel,partial eroded
+12505,channel,channel,partial eroded
+12509,channel,channel,partial eroded
+12510,channel,channel,partial eroded
+12511,channel,channel,partial eroded
+12512,channel,channel,partial eroded
+12513,channel,channel,partial eroded
+12514,channel,channel,partial eroded
+12515,channel,channel,partial eroded
+12516,channel,channel,partial eroded
+12517,channel,channel,partial eroded
+12518,channel,channel,partial eroded
+12522,internal levee deposits,levee,true (not maximum)
+12524,internal levee deposits,levee,true (not maximum)
+12526,channel,channel,partial eroded
+12529,channel,channel,artificial
+12530,channel,channel,artificial
+12531,channel,channel,artificial
+12532,channel,channel,artificial
+12533,channel,channel,artificial
+12534,channel,channel,artificial
+12535,channel,channel,artificial
+20001,levee sediments,levee,partial observed
+20002,overbank facies,levee,artificial
+20005,cut and fill scour,channel,true (maximum)
+20006,overbank facies,levee,artificial
+20008,overbank facies,levee,artificial
+20009,cut and fill scour,channel,true (maximum)
+20010,overbank facies,levee,artificial
+20013,cut and fill scour,channel,true (maximum)
+20014,overbank facies,levee,artificial
+20072,levee sediments,levee,true (maximum)
+20079,inner levee/terrace/confined levee,levee,partial eroded
+20080,channel axis,channel,partial observed
+20087,lobe,terminal deposit,true (maximum)
+20088,lobe,terminal deposit,true (maximum)
+20090,lobe,terminal deposit,true (maximum)
+20091,lobe,terminal deposit,true (maximum)
+20093,lobe,terminal deposit,true (maximum)
+20094,lobe,terminal deposit,true (maximum)
+20096,lobe,terminal deposit,true (maximum)
+20097,lobe,terminal deposit,true (maximum)
+20102,lobe,terminal deposit,partial observed
+20103,lobe fringe/distal overbank,terminal deposit,true (maximum)
+20104,lobe off-axix/proximal overbank,terminal deposit,true (maximum)
+20105,lobe,terminal deposit,partial observed
+20106,lobe,terminal deposit,partial observed
+20107,channel-fill,channel,true (maximum)
+20108,channel-fill,channel,true (not maximum)
+20109,channel-fill,channel,partial observed
+20110,lobe apex (high amalgamation zone),terminal deposit,true (maximum)
+20111,lobe apex (high amalgamation zone),terminal deposit,true (maximum)
+20112,overbank,levee,true (maximum)
+20139,levee-overbank,levee,true (maximum)
+22815,slope channel,channel,apparent
+22816,slope channel,channel,apparent
+22817,slope channel,channel,apparent
+22818,slope channel,channel,apparent
+22819,slope channel,channel,apparent
+22821,slope channel,channel,apparent
+22822,slope channel,channel,apparent
+22823,slope channel,channel,apparent
+22824,slope channel,channel,apparent
+22825,slope channel,channel,partial observed
+22826,slope channel,channel,partial observed
+22827,slope channel,channel,apparent
+22828,slope channel,channel,apparent
+22839,slope channel,channel,apparent
+22840,slope channel,channel,apparent
+22841,slope channel,channel,apparent
+22842,slope channel,channel,partial observed

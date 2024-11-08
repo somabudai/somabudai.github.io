@@ -1,0 +1,28 @@
+system_ID,sys_name,sand_fraction,sys_gs_category,age,epoch,period,era,climate
+1,Golo Turbidite System,1,sandy system,(Holocene),Holocene,Quaternary,Cenozoic,icehouse
+2,Ross Sandstone Turbidite System,1,sandy system,Bashkirian,Lower Pennsylvanian,Carboniferous,Paleozoic,icehouse
+4,Brushy Canyon,1,sandy system,(Guadalupian),Guadalupian,Permian,Paleozoic,icehouse
+5,Isaac Formation,0.781029,gravelly-sand system,(Neo-proterozoic),-,-,Neo-proterozoic,uncertain
+10,Cerro Toro Deep-Water System,0.4689274,gravelly system,Campanian,Upper Cretaceous,Cretaceous,Mesozoic,greenhouse
+11,Al Batha Turbidite System,1,sandy system,(Holocene),Holocene,Quaternary,Cenozoic,icehouse
+14,Bengal Fan,1,sandy system,(Holocene),Holocene,Quaternary,Cenozoic,icehouse
+15,Black's Beach,0.8027159,gravelly-sand system,Priabonian,Eocene,Paleogene,Cenozoic,greenhouse
+16,Capistrano Formation,0.7282256,gravelly-sand system,Zanclean,Pliocene,Neogene,Cenozoic,icehouse
+100,San Fernando Turbidite System,0.5209574,gravelly-sand system,Maastrichtian,Upper Cretaceous,Cretaceous,Mesozoic,greenhouse
+210,Grès d'Annot Formation,0.971341,sandy system,Rupelian,Oligocene,Paleogene,Cenozoic,icehouse
+107,Tanqua Karoo,1,sandy system,Capitanian,Guadalupian,Permian,Paleozoic,icehouse
+108,Brito Formation Turbidite System,0.8777629,gravelly-sand system,(Eocene),Eocene,Paleogene,Cenozoic,greenhouse
+112,Laingsburg Karoo Turbidite System,1,sandy system,(Lopingian),Lopingian,Permian,Paleozoic,greenhouse
+224,Torre degli Amorotti turbidite system,0.9134698,gravelly-sand system,Burdigalian,Miocene,Neogene,Cenozoic,icehouse
+227,Cloridorme turbidite system,1,sandy system,Katian,Upper Ordovician,Ordovician,Paleozoic,icehouse
+228,Yingtaogou turbidite system,0.9419584,gravelly-sand system,Darriwilian,Middle Ordovician,Ordovician,Paleozoic,greenhouse
+1052,Aberystwyth Grits,0.9650669,sandy system,(Upper Ordovician),Upper Ordovician,Ordovician,Paleozoic,greenhouse
+230,Peary Land Group turbidite system,0.8596585,gravelly-sand system,(Pridoli),Pridoli,Silurian,Paleozoic,icehouse
+231,Bennett Island turbidite system,1,sandy system,Darriwilian,Middle Ordovician,Ordovician,Paleozoic,greenhouse
+232,Antler foredeep turbidite system,0.6468895,gravelly-sand system,Visean,Middle Mississippian,Carboniferous,Paleozoic,icehouse
+234,Draupne Formation turbidite system,0.8729797,gravelly-sand system,Tithonian,Upper Jurassic,Jurassic,Mesozoic,greenhouse
+235,Thelma Field turbidite system,0.6324705,gravelly-sand system,Tithonian,Upper Jurassic,Jurassic,Mesozoic,greenhouse
+236,Raca unit turbidite system,1,sandy system,(Eocene),Eocene,Paleogene,Cenozoic,greenhouse
+237,Ropianka turbidite system (West),0.994898,sandy system,Maastrichtian,Upper Cretaceous,Cretaceous,Mesozoic,greenhouse
+238,Ropianka turbidite system (East),1,sandy system,Campanian,Upper Cretaceous,Cretaceous,Mesozoic,greenhouse
+239,San Jacinto turbidite system,0.7845041,gravelly-sand system,(Eocene),Eocene,Paleogene,Cenozoic,greenhouse

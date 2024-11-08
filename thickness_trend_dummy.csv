@@ -1,0 +1,168 @@
+log_ID,element_ID,sys_gs_category,climate,element_general_type,log_trend_value,log_trend_margin,log_trend
+4,67,sandy system,icehouse,terminal deposit,-0.033333333,thinning,thinning
+5,52,sandy system,icehouse,channel,-0.331683168,thinning,thinning
+12,52,sandy system,icehouse,channel,-0.030131827,thinning,thinning
+13,54,sandy system,icehouse,levee,0,no trend,no trend
+15,52,sandy system,icehouse,channel,-0.064846416,thinning,thinning
+21,68,sandy system,icehouse,terminal deposit,-0.056497175,thinning,thinning
+22,2,sandy system,icehouse,terminal deposit,-0.024390244,no trend,thinning
+24,2,sandy system,icehouse,terminal deposit,-0.216432866,thinning,thinning
+26,3,sandy system,icehouse,terminal deposit,0.23255814,thickening,thickening
+32,76,sandy system,icehouse,terminal deposit,-0.076923077,thinning,thinning
+33,280,gravelly-sand system,uncertain,channel,0.019011407,no trend,thickening
+34,280,gravelly-sand system,uncertain,channel,-0.008287293,no trend,thinning
+53,451,sandy system,icehouse,channel,-0.115906928,thinning,thinning
+53,432,sandy system,icehouse,channel,-0.245989305,thinning,thinning
+54,430,sandy system,icehouse,channel,0.244863014,thickening,thickening
+55,430,sandy system,icehouse,channel,-0.33427762,thinning,thinning
+55,432,sandy system,icehouse,channel,-0.086330935,thinning,thinning
+55,433,sandy system,icehouse,channel,-0.028938907,no trend,thinning
+56,432,sandy system,icehouse,channel,-0.038997214,thinning,thinning
+86,1228,sandy system,icehouse,terminal deposit,0.377934272,thickening,thickening
+86,1229,sandy system,icehouse,terminal deposit,-0.047473201,thinning,thinning
+86,1230,sandy system,icehouse,terminal deposit,0.010362694,no trend,thickening
+86,1231,sandy system,icehouse,terminal deposit,-0.190763052,thinning,thinning
+87,1233,sandy system,icehouse,terminal deposit,-0.043545879,thinning,thinning
+87,1234,sandy system,icehouse,terminal deposit,-0.18336163,thinning,thinning
+87,1235,sandy system,icehouse,terminal deposit,0.07568113,thickening,thickening
+87,1236,sandy system,icehouse,terminal deposit,0.005145798,no trend,thickening
+88,1239,sandy system,icehouse,terminal deposit,0.103068634,thickening,thickening
+88,1240,sandy system,icehouse,terminal deposit,0.056570931,thickening,thickening
+88,1241,sandy system,icehouse,terminal deposit,-0.046920821,thinning,thinning
+89,1280,gravelly system,greenhouse,channel,-0.162790698,thinning,thinning
+89,1281,gravelly system,greenhouse,channel,0.008287293,no trend,thickening
+90,1298,gravelly system,greenhouse,channel,-0.021505376,no trend,thinning
+90,1297,gravelly system,greenhouse,channel,0.557768924,thickening,thickening
+91,1285,gravelly system,greenhouse,channel,-0.168582375,thinning,thinning
+96,1307,gravelly-sand system,greenhouse,channel,-0.116760829,thinning,thinning
+96,1339,gravelly-sand system,greenhouse,channel,0.123364486,thickening,thickening
+1016,10122,gravelly-sand system,greenhouse,channel,0.121850015,thickening,thickening
+1016,10124,gravelly-sand system,greenhouse,channel,-0.165381276,thinning,thinning
+1016,10125,gravelly-sand system,greenhouse,channel,-0.222124825,thinning,thinning
+1017,10125,gravelly-sand system,greenhouse,channel,-0.135073581,thinning,thinning
+1017,10126,gravelly-sand system,greenhouse,channel,0.263908368,thickening,thickening
+1021,10036,gravelly-sand system,greenhouse,levee,-0.000167196,no trend,thinning
+1024,10036,gravelly-sand system,greenhouse,levee,-0.054699155,thinning,thinning
+1025,10036,gravelly-sand system,greenhouse,levee,0.073825503,thickening,thickening
+1028,20072,gravelly-sand system,greenhouse,levee,-0.262120738,thinning,thinning
+1029,20072,gravelly-sand system,greenhouse,levee,-0.09905755,thinning,thinning
+1031,20005,gravelly-sand system,greenhouse,channel,-0.004917025,no trend,thinning
+1033,20005,gravelly-sand system,greenhouse,channel,0.216202532,thickening,thickening
+1034,20005,gravelly-sand system,greenhouse,channel,0.056585678,thickening,thickening
+1034,20009,gravelly-sand system,greenhouse,channel,0.199838188,thickening,thickening
+1034,20013,gravelly-sand system,greenhouse,channel,0.410055351,thickening,thickening
+1046,10241,gravelly-sand system,uncertain,channel,-0.038580247,thinning,thinning
+1047,10318,sandy system,icehouse,channel,-0.010564172,no trend,thinning
+1047,10319,sandy system,icehouse,channel,-0.030232013,thinning,thinning
+1048,11612,gravelly-sand system,greenhouse,levee,-0.248945148,thinning,thinning
+1049,11612,gravelly-sand system,greenhouse,levee,0.105820106,thickening,thickening
+1064,12217,gravelly-sand system,icehouse,channel,-0.139037433,thinning,thinning
+1064,12218,gravelly-sand system,icehouse,channel,0.336384439,thickening,thickening
+1064,12219,gravelly-sand system,icehouse,channel,-0.006024096,no trend,thinning
+1065,12291,sandy system,icehouse,terminal deposit,0.010928962,no trend,thickening
+1065,12292,sandy system,icehouse,terminal deposit,0.07253886,thickening,thickening
+1068,12291,sandy system,icehouse,terminal deposit,0.008403361,no trend,thickening
+1069,12291,sandy system,icehouse,terminal deposit,0.169811321,thickening,thickening
+1070,12291,sandy system,icehouse,terminal deposit,0.160305344,thickening,thickening
+1072,12291,sandy system,icehouse,terminal deposit,0.029411765,no trend,thickening
+1073,12303,sandy system,icehouse,terminal deposit,-0.708571429,thinning,thinning
+1073,12305,sandy system,icehouse,terminal deposit,0.052785924,thickening,thickening
+1073,12306,sandy system,icehouse,terminal deposit,0.371165644,thickening,thickening
+1074,12303,sandy system,icehouse,terminal deposit,0.025104603,no trend,thickening
+1074,12305,sandy system,icehouse,terminal deposit,0.106122449,thickening,thickening
+1074,12306,sandy system,icehouse,terminal deposit,0.015410959,no trend,thickening
+1075,12305,sandy system,icehouse,terminal deposit,0.155660377,thickening,thickening
+1075,12306,sandy system,icehouse,terminal deposit,0.233695652,thickening,thickening
+1076,12305,sandy system,icehouse,terminal deposit,-0.23046875,thinning,thinning
+1076,12306,sandy system,icehouse,terminal deposit,0.25,thickening,thickening
+1076,12307,sandy system,icehouse,terminal deposit,0.269021739,thickening,thickening
+1077,12305,sandy system,icehouse,terminal deposit,-0.317073171,thinning,thinning
+1077,12306,sandy system,icehouse,terminal deposit,0.385714286,thickening,thickening
+1077,12307,sandy system,icehouse,terminal deposit,0,no trend,no trend
+1078,12305,sandy system,icehouse,terminal deposit,-0.147540984,thinning,thinning
+1078,12306,sandy system,icehouse,terminal deposit,-0.023255814,no trend,thinning
+1078,12307,sandy system,icehouse,terminal deposit,0.022421525,no trend,thickening
+1079,12307,sandy system,icehouse,terminal deposit,-0.062146893,thinning,thinning
+1081,12486,sandy system,greenhouse,channel,-0.002938296,no trend,thinning
+1081,12478,sandy system,greenhouse,terminal deposit,0.028318584,no trend,thickening
+1089,12486,sandy system,greenhouse,channel,-0.092592593,thinning,thinning
+1090,12486,sandy system,greenhouse,channel,-0.032967033,thinning,thinning
+1091,12486,sandy system,greenhouse,channel,-0.007633588,no trend,thinning
+1092,12486,sandy system,greenhouse,channel,-0.128059778,thinning,thinning
+1092,12478,sandy system,greenhouse,terminal deposit,-0.052959502,thinning,thinning
+1094,12524,sandy system,greenhouse,levee,-0.011811024,no trend,thinning
+2006,10036,gravelly-sand system,greenhouse,levee,0.008782936,no trend,thickening
+2028,20088,sandy system,icehouse,terminal deposit,-0.00433526,no trend,thinning
+2028,20090,sandy system,icehouse,terminal deposit,-0.161442006,thinning,thinning
+2028,20091,sandy system,icehouse,terminal deposit,-0.02259887,no trend,thinning
+2028,20112,sandy system,icehouse,levee,0.048136646,thickening,thickening
+2028,20093,sandy system,icehouse,terminal deposit,-0.851369555,thinning,thinning
+2028,20094,sandy system,icehouse,terminal deposit,-0.263955343,thinning,thinning
+2028,20096,sandy system,icehouse,terminal deposit,0.717241379,thickening,thickening
+2029,20091,sandy system,icehouse,terminal deposit,-0.513684211,thinning,thinning
+2031,20090,sandy system,icehouse,terminal deposit,0.198542805,thickening,thickening
+2031,20091,sandy system,icehouse,terminal deposit,-0.20754717,thinning,thinning
+2032,20090,sandy system,icehouse,terminal deposit,0.022222222,no trend,thickening
+2033,20104,sandy system,icehouse,terminal deposit,0.053179825,thickening,thickening
+2035,20110,sandy system,icehouse,terminal deposit,0.081343793,thickening,thickening
+2037,20139,sandy system,greenhouse,levee,-0.058347945,thinning,thinning
+2038,20139,sandy system,greenhouse,levee,-0.041617473,thinning,thinning
+2039,20139,sandy system,greenhouse,levee,-0.035388128,thinning,thinning
+2040,3228,gravelly-sand system,icehouse,terminal deposit,0.140350877,thickening,thickening
+2040,3231,gravelly-sand system,icehouse,terminal deposit,0.729323308,thickening,thickening
+2040,3233,gravelly-sand system,icehouse,terminal deposit,-0.014091858,no trend,thinning
+2041,3233,gravelly-sand system,icehouse,terminal deposit,0.004048583,no trend,thickening
+2054,3298,sandy system,icehouse,terminal deposit,-0.206896552,thinning,thinning
+2054,3316,sandy system,icehouse,terminal deposit,0.310769231,thickening,thickening
+2054,3324,sandy system,icehouse,terminal deposit,0.241803279,thickening,thickening
+2055,3316,sandy system,icehouse,terminal deposit,0.152838428,thickening,thickening
+2055,3324,sandy system,icehouse,terminal deposit,0.017094017,no trend,thickening
+2056,3316,sandy system,icehouse,terminal deposit,0.038647343,thickening,thickening
+2056,3324,sandy system,icehouse,terminal deposit,0.126213592,thickening,thickening
+2057,3469,gravelly-sand system,uncertain,terminal deposit,-0.010948905,no trend,thinning
+2058,3469,gravelly-sand system,uncertain,terminal deposit,0.078488372,thickening,thickening
+2059,3469,gravelly-sand system,uncertain,terminal deposit,0.1475,thickening,thickening
+2060,3469,gravelly-sand system,uncertain,terminal deposit,-0.042424242,thinning,thinning
+2061,3469,gravelly-sand system,uncertain,terminal deposit,-0.038781163,thinning,thinning
+2062,3469,gravelly-sand system,uncertain,terminal deposit,0.024128686,no trend,thickening
+2063,3469,gravelly-sand system,uncertain,terminal deposit,0.025641026,no trend,thickening
+2064,3450,gravelly-sand system,uncertain,terminal deposit,-0.082706767,thinning,thinning
+2065,3450,gravelly-sand system,uncertain,terminal deposit,0.028901734,no trend,thickening
+2066,3450,gravelly-sand system,uncertain,terminal deposit,-0.025974026,no trend,thinning
+2067,3450,gravelly-sand system,uncertain,terminal deposit,-0.037414966,thinning,thinning
+2068,3450,gravelly-sand system,uncertain,terminal deposit,0.006849315,no trend,thickening
+2069,3450,gravelly-sand system,uncertain,terminal deposit,0.005747126,no trend,thickening
+2070,3450,gravelly-sand system,uncertain,terminal deposit,-0.054054054,thinning,thinning
+2071,3450,gravelly-sand system,uncertain,terminal deposit,0.267782427,thickening,thickening
+2072,3450,gravelly-sand system,uncertain,terminal deposit,0.043835616,thickening,thickening
+2073,3450,gravelly-sand system,uncertain,terminal deposit,-0.02962963,no trend,thinning
+2074,3450,gravelly-sand system,uncertain,terminal deposit,0.23100304,thickening,thickening
+2075,3450,gravelly-sand system,uncertain,terminal deposit,0.075471698,thickening,thickening
+2076,3450,gravelly-sand system,uncertain,terminal deposit,0.046025105,thickening,thickening
+2077,3450,gravelly-sand system,uncertain,terminal deposit,0.095,thickening,thickening
+2078,3450,gravelly-sand system,uncertain,terminal deposit,0,no trend,no trend
+2079,3450,gravelly-sand system,uncertain,terminal deposit,0.08988764,thickening,thickening
+2080,3450,gravelly-sand system,uncertain,terminal deposit,-0.040609137,thinning,thinning
+2081,3450,gravelly-sand system,uncertain,terminal deposit,-0.022857143,no trend,thinning
+2089,3504,sandy system,greenhouse,terminal deposit,0.278145695,thickening,thickening
+2105,3505,sandy system,greenhouse,channel,0.178124314,thickening,thickening
+2106,3505,sandy system,greenhouse,channel,0.004686977,no trend,thickening
+2207,22815,gravelly-sand system,greenhouse,channel,-0.008997429,no trend,thinning
+2207,22816,gravelly-sand system,greenhouse,channel,-0.499040307,thinning,thinning
+2207,22817,gravelly-sand system,greenhouse,channel,-0.438976378,thinning,thinning
+2207,22818,gravelly-sand system,greenhouse,channel,-0.094262295,thinning,thinning
+2207,22819,gravelly-sand system,greenhouse,channel,-0.318982387,thinning,thinning
+2208,22821,gravelly-sand system,greenhouse,channel,-0.161654135,thinning,thinning
+2208,22823,gravelly-sand system,greenhouse,channel,-0.238700565,thinning,thinning
+2208,22824,gravelly-sand system,greenhouse,channel,-0.152019002,thinning,thinning
+2209,22828,gravelly-sand system,greenhouse,channel,-0.173228346,thinning,thinning
+2214,22839,gravelly-sand system,greenhouse,channel,0,no trend,no trend
+2214,22841,gravelly-sand system,greenhouse,channel,-0.351569507,thinning,thinning
+2224,4608,sandy system,greenhouse,terminal deposit,0.471544715,thickening,thickening
+2224,4609,sandy system,greenhouse,terminal deposit,-0.295039164,thinning,thinning
+2225,4612,sandy system,greenhouse,terminal deposit,0,no trend,no trend
+2225,4613,sandy system,greenhouse,terminal deposit,0.078,thickening,thickening
+2226,4615,sandy system,greenhouse,terminal deposit,-0.001932367,no trend,thinning
+2226,4618,sandy system,greenhouse,terminal deposit,-0.002150538,no trend,thinning
+2226,4619,sandy system,greenhouse,terminal deposit,0.454545455,thickening,thickening
+2226,4620,sandy system,greenhouse,terminal deposit,0.001159644,no trend,thickening
